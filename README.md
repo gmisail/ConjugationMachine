@@ -1,3 +1,10 @@
 # ConjugationMachine
 
-[Screenshots](https://imgur.com/a/gTYzg)
+### Stack
+- Haxe, Javascript transpiler
+- HaxeLow, database
+- Express, web app framework
+- Node.js
+
+### Screenshots
+[IMGUR Link](https://imgur.com/a/gTYzg)
