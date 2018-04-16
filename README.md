@@ -1,3 +1,3 @@
 # ConjugationMachine
 
-(Screenshots)[https://imgur.com/a/gTYzg]
+[Screenshots](https://imgur.com/a/gTYzg)
